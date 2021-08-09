@@ -9,7 +9,7 @@ Pillow==7.0.0
 pyfiglet==0.8.post1
 pylint==2.4.4
 pypiwin32==223
-pywin32==227
+pywin32==301
 six==1.14.0
 wcwidth==0.1.8
 wrapt==1.11.2
